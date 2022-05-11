@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EvanM07
-- 🌱 I’m currently learning HTML, CSS, Javascript, C#, and SQL.
+
 
 
 <!---
